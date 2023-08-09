@@ -3,15 +3,8 @@
 <h3> Ui spotify 09/08/2023 </h3>
 
 
-<h3>Home</h3>
 <img src="Screenshot 2023-08-09 011008.png" width="300" />
 <img src="Screenshot 2023-08-09 011140.png" width="300" />
-<img src="Screenshot 2023-08-09 011110.png" width="300" />
-<hr>
-<h3>Search</h3>
-<img src="Screenshot 2023-08-09 011140.png" width="300" />
-<hr>
-<h3>Library</h3>
 <img src="Screenshot 2023-08-09 011110.png" width="300" />
 <hr>
 
